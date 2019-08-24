@@ -41,10 +41,43 @@ Foydalanuvchi topgan pulidan 90% sarflaydi - shuni inobatga oling.
 ---
 
 Dollarni so'mga va so'mni dollarga o'giradigan dasturni tuzing.
-Foydalanuvchi pulni kiritishi kerak bo'ladi, <select> orqali pul jinsini tanlash kerak bo'ladi,
+Foydalanuvchi pulni kiritishi kerak bo'ladi, `<select>` orqali pul jinsini tanlash kerak bo'ladi,
 va "o'girish" tugmasini bosishi kerak bo'ladi.
 
 ---
 
 Oshxonani menyusini tuzing. Foydalanuvchi "somsa" deb kiritsa - unga "3000" deb yozing.
-"palov" deb kiritsa "15000" deb yozing. "gumma" - "2000".
+"palov" deb kiritsa "15000" deb yozing. "gumma" - "2000". Bitta `<select>` dan foydalaning.
+
+---
+
+Oshxonani menyusini tuzing. Foydalanuvchi "somsa" deb kiritsa - unga "3000" deb yozing.
+"palov" deb kiritsa "15000" deb yozing. "gumma" - "2000". Uchta `<select> dan foydalaning.
+Va tanlangan taomlarni umumiy narxini hisoblab bering.
+
+---
+
+Huddi yuqoridagi dastur, lekin umumiy narxga yana xizmatga 10% qo'shiladi.
+
+---
+
+Qo'yliqqa, Chorsuga va Oloy bozorga boradigan avtobuslarni chiqaradigan dasturni tuzing.
+Foydalanuvchi Qo'yliqni tanlasa 7, 93 deb chiqaring.
+Chorsu - 3, 54, 12.
+Oloy - 434, 5545, 11111.
+
+---
+
+Topishmoqlar dasturini tuzing.
+Foydalanuvchiga 5 topishmoq bering. Barchasiga javob bersa - unga baxo 5 berasiz.
+4 javob bersa - baxo 4.
+
+---
+
+Narxlar:
+Somsa: 3000
+Palov: 15000
+Sarimsoq kg: 12000
+
+Foydalanuvchi unda bor pulini kiritsin. Va molni tanlasin.
+Puli yetsa - "sotib oldingiz" deb chiqaring. Puli yetmasa - "uzr, pul yetmadi" deb yozing.
