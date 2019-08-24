@@ -52,7 +52,7 @@ Oshxonani menyusini tuzing. Foydalanuvchi "somsa" deb kiritsa - unga "3000" deb 
 ---
 
 Oshxonani menyusini tuzing. Foydalanuvchi "somsa" deb kiritsa - unga "3000" deb yozing.
-"palov" deb kiritsa "15000" deb yozing. "gumma" - "2000". Uchta `<select> dan foydalaning.
+"palov" deb kiritsa "15000" deb yozing. "gumma" - "2000". Uchta `<select>` dan foydalaning.
 Va tanlangan taomlarni umumiy narxini hisoblab bering.
 
 ---
@@ -78,6 +78,7 @@ Narxlar:
 Somsa: 3000
 Palov: 15000
 Sarimsoq kg: 12000
+
 
 Foydalanuvchi unda bor pulini kiritsin. Va molni tanlasin.
 Puli yetsa - "sotib oldingiz" deb chiqaring. Puli yetmasa - "uzr, pul yetmadi" deb yozing.
