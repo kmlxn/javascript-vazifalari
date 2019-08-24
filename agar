@@ -1,0 +1,50 @@
+Foydalanuvchidan yoshni so'raydigan dasturni tuzing. Yosh 50 dan y uqori bo'lsa, dastur "Siz kattasiz" deb chiqarib berishi kerak.
+Yosh 50 dan past bo'lsa "Siz yoshsiz" deb chiqarib berishi kerak.
+
+---
+
+Somsani narxini so'raydigan dastur. Narx 3000 dan yuqori bo'lsa - dastur "qimmat" deb chiqarib bersin.
+3000 dan arzon bo'lsa - "arzon" deb chiqarib bersin.
+
+---
+
+Parolni tekshiradigan dastur. Foydalanuvchi "sarimsoqpiyoz" parolini kiritgan bo'lsa, u bilan salomlashing.
+
+---
+
+Parolni tekshiradigan dastur. Foydalanuvchi "sarimsoqpiyoz" parolini kiritgan bo'lsa, u bilan salomlashing.
+Boshqa narsa kiritgan bo'lsa - unga "Xato!" deb yozing.
+
+---
+
+Foydalanuvchi yoshini kiritish kerak.
+Yoshi 0 dan 30 gacha bo'lsa, unga "yoshsiz" deb yozing.
+Yoshi 30 dan 60 gacha bo'lsa, unga "kattasiz" deb yozing.
+Yoshi 60 dan yuqori bo'lsa, unga siz qarisiz deb yozing.
+
+---
+
+Foydalanuvchidan ismini so'rang.
+Ismi "Ali" bo'lsa, unga "Salom og'a" deb yozing. Ismi "Ahmad" bo'lsa, unga "Ko'rinmayapsan dostim, nima qilyapsan?" deb yozing.
+
+---
+
+Foydalanuvchidan oyligini so'rang. Va soliq bilan yoki soliqsiz hisoblash kerakligini so'rang.
+So'ng yillik topadigan pulini hisoblab bering (soliq bilan yoki soliqsin).
+
+---
+
+Foydalanuvchidan oyligini so'rang. Va soliq bilan yoki soliqsiz hisoblash kerakligini so'rang.
+So'ng yillik YIG'ADIGAN pulini hisoblab bering (soliq bilan yoki soliqsin).
+Foydalanuvchi topgan pulidan 90% sarflaydi - shuni inobatga oling.
+
+---
+
+Dollarni so'mga va so'mni dollarga o'giradigan dasturni tuzing.
+Foydalanuvchi pulni kiritishi kerak bo'ladi, <select> orqali pul jinsini tanlash kerak bo'ladi,
+va "o'girish" tugmasini bosishi kerak bo'ladi.
+
+---
+
+Oshxonani menyusini tuzing. Foydalanuvchi "somsa" deb kiritsa - unga "3000" deb yozing.
+"palov" deb kiritsa "15000" deb yozing. "gumma" - "2000".
