@@ -82,3 +82,11 @@ Sarimsoq kg: 12000
 
 Foydalanuvchi unda bor pulini kiritsin. Va molni tanlasin.
 Puli yetsa - "sotib oldingiz" deb chiqaring. Puli yetmasa - "uzr, pul yetmadi" deb yozing.
+
+---
+
+Internet do'kon tuzing. 10 ta mol bo'lsin (10 ta checkbox). Har bittasini sotib olsa bo'ladi. Va qariyalarga 10% chegirma beriladi (checkboxda "men qariman" ni bosib qo'yadi). Hamda kamida 5 ta mol sotib olgan odamga 15% chegirma beriladi.
+
+---
+
+Huddi yuqoridagi vazifa, lekin foydalanuvchida faqatgina 30 000 ming so'm bor. Puli yetsa - tanlagan mollarni sotib oladi. Puli yetmasa - xatolik xabarini ko'radi.
