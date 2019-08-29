@@ -90,3 +90,11 @@ Internet do'kon tuzing. 10 ta mol bo'lsin (10 ta checkbox). Har bittasini sotib 
 ---
 
 Huddi yuqoridagi vazifa, lekin foydalanuvchida faqatgina 30 000 ming so'm bor. Puli yetsa - tanlagan mollarni sotib oladi. Puli yetmasa - xatolik xabarini ko'radi.
+
+---
+
+Huddi yuqoridagi vazifa, lekin foydalanuvchi sotib olgan mollarni qaytara oladi, va unga pulini qaytarib berishadi.
+
+---
+
+Huddi yoqoridagi vazifa. Lekin foydalanuvchi kamida 10 ming sarflagan bo'lsa, unga "ishbilarmon" unvon beriladi. Kamida 20 ming sarflagan bo'lsa - unga "boyvotcha" unvoni beriladi. 30 ming sarflagan bo'lsa unga "sulton" unvoni beriladi. Unvonni foydalanuvchiga ko'rsatish kerak.
