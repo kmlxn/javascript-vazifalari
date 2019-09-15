@@ -1,14 +1,29 @@
 ```
 ['osh', 'somsa', 'kabob', 'non', 'dimlama']
 ```
-Shu royxatda barcha so'zlarni console.log qilish.
+Shu royxatda barcha so'zlarni `console.log` qilish.
 
 ---
 
 ```
 ['osh', 'somsa', 'kabob', 'non', 'dimlama']
 ```
-Shu royxatda barcha so'zlarning uzunligini console.log qilish.
+Shu royxatda barcha so'zlarni oxiridan boshlab `console.log` qilish.
+Misol uchun:
+```
+dimlama
+non
+kabob
+somsa
+osh
+```
+
+---
+
+```
+['osh', 'somsa', 'kabob', 'non', 'dimlama']
+```
+Shu royxatda barcha so'zlarning uzunligini `console.log` qilish.
 So'zni uzinligini bilish uchun `.length` dan foydalaning. Misol uchun `"dimlama".length` 7 ga teng.
 
 ---
