@@ -112,3 +112,53 @@ Eng kichik sonni topish.
 ---
 
 Yigirmata finonaci sonlardan ro'yxat tuzish.
+
+---
+
+```
+[
+  [32, 54, 12, 65, 22],
+  [3, 22, 54, 23, 11],
+  [87, 34, 12, 65, 11]
+]
+```
+Shu ro'yxatdagi barcha sonlarni konsolga chiqarish. While yoki for dan foydalanish.
+
+---
+
+```
+[
+  [32, 54, 12, 65, 22],
+  [3, 22, 54, 23, 11],
+  [87, 34, 12, 65, 11]
+]
+```
+Shu ro'yxatdagi barcha sonlarning yig'indisini topish. While yoki for dan foydalanish.
+
+---
+
+```
+[
+  [32, 54, 12, 65, 22],
+  [3, 22, 54, 23, 11],
+  [87, 34, 12, 65, 11]
+]
+```
+Shu ro'yxatdagi barcha sonlardan HTML jadvalni tuzish. While yoki for dan foydalanish.
+Misol:
+```html
+<table>
+  <tr> <td>32</td> <td>54</td> <td>12</td> <td>65</td> <td>22</td> </tr>
+  <tr> <td>3</td> <td>22</td> <td>54</td> <td>23</td> <td>11</td> </tr>
+  <tr> <td>87</td> <td>34</td> <td>12</td> <td>65</td> <td>11</td> </tr>
+</table>
+```
+
+---
+
+```javascript
+[32, 54, 12, 65, 22]
+```
+Shu ro'yxatni tartibga keltirish. Natija shunday bo'lishi kerak - `[12, 22, 32, 54, 65]`. While yoki for dan foydalanish.
+
+---
