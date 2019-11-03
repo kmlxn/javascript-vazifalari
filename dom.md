@@ -72,7 +72,7 @@ Ikkita `input type="number"` qo'ying. Birinchi `input`ga sonni kiritganingizda, 
 
 ---
 
-`audio` va `input type="range"` qo'ying. `input`ni sijditganingizda `audio` nin tovushining balandligi o'zgarishi kerak.
+`audio` va `input type="range"` qo'ying. `input`ni sijditganingizda `audio` tovushining balandligi o'zgarishi kerak.
 
 ---
 
