@@ -2,6 +2,8 @@
 ## Yoqqich
 [Vazifa](./murakkabroq_1/yoqqich.mp4)
 
+<video style="max-width: 500px" src="./murakkabroq_1/yoqqich.mp4"></video>
+
 ---
 
 ## Tab sodda
