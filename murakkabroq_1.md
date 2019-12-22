@@ -1,27 +1,28 @@
 
 ## Yoqqich
-[Vazifa](./murakkabroq_1/yoqqich.mp4)
 
-<video style="max-width: 500px" src="./murakkabroq_1/yoqqich.mp4"></video>
+<video controls style="max-width: 500px" src="./murakkabroq_1/yoqqich.mp4"></video>
 
 ---
 
 ## Tab sodda
-[Vazifa](./murakkabroq_1/tab-sodda.mp4)
+
+<video controls style="max-width: 500px" src="./murakkabroq_1/tab-sodda.mp4"></video>
 
 ---
 
 ## Tab
-[Vazifa](./murakkabroq_1/tab.mp4)
+
+<video controls style="max-width: 500px" src="./murakkabroq_1/tab.mp4"></video>
 
 ---
 
 
 ## Pochta tekshirish
-[Vazifa](./murakkabroq_1/pochta-tekshirish.mp4)
+<video controls style="max-width: 500px" src="./murakkabroq_1/pochta-tekshirish.mp4"></video>
 
 ---
 
 
 ## Qarta
-[Vazifa](./murakkabroq_1/qarta.mp4)
+<video controls style="max-width: 500px" src="./murakkabroq_1/qarta.mp4"></video>
