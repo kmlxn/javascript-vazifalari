@@ -60,10 +60,10 @@ var soliq = 24;
 alert(?????);
 ```
 
-Mikrofon AliExpressda 40$ turadi. Etkazib berish narxi - 30%. O'zbekistonda esa AliExpress narxiga 50% qo'yib sotsa bo'ladi. Nechpul foyda ko'rasiz?
+Mikrofon AliExpressda 40$ turadi. Yetkazib berish narxi - 30%. O'zbekistonda esa AliExpress narxiga 50% qo'yib sotsa bo'ladi. Nechpul foyda ko'rasiz?
 ```js
 var narx = 40;
-var etkazish = 30;
+var yetkazish = 30;
 var ustigaFoiz = 50;
 
 alert(?????);
