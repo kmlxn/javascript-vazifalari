@@ -48,3 +48,32 @@ var pul = 120000;
 
 alert(??????);
 ```
+
+
+Firmangiz har oy qanchadir pul topadi. Soliqqa topgan pulidan 24% beradi. Reklamaga qanchadir pul sarflaydi. Ishchilarning oyligiga qanchadir pul sarflaydi. Bir yilda qancha pul yig'iladi?
+```js
+var kirim = 1100000;
+var reklama = 1000;
+var oyliklar = 700000;
+var soliq = 24;
+
+alert(?????);
+```
+
+Mikrofon AliExpressda 40$ turadi. Etkazib berish narxi - 30%. O'zbekistonda esa AliExpress narxiga 50% qo'yib sotsa bo'ladi. Nechpul foyda ko'rasiz?
+```js
+var narx = 40;
+var etkazish = 30;
+var ustigaFoiz = 50;
+
+alert(?????);
+```
+
+
+Do'koningiz bor. Har bir molning ustiga 15% qo'yib sotasiz. Har kun 100000 so'mga ga pechenye sotasiz. Nechi kunda 500000 so'm sof foyda ko'rasiz?
+```js
+var sotilish = 100000;
+var ustigaFoiz = 15;
+
+alert(?????);
+```
