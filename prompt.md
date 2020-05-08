@@ -13,12 +13,12 @@ Foydalanuvchidan oylik maoshini so'rash kerak, va unga yilda qancha pul yig'adi 
 
 ---
 
-Foydalanuvchidan ismini so'rang. So'ng "Assalomu alaykum <ism>" deb chiqarib bering. <ism> o'rniga ismini qo'yasiz.
+Foydalanuvchidan ismini so'rang. So'ng "Assalomu alaykum `ISM`" deb chiqarib bering. `ISM` o'rniga ismini qo'yasiz.
 
 ---
 
 Foydalanuvchidan son kiritishni so'rang. Keyin yana bitta son kiritishni so'rang. So'ng sonlarni qo'shib unga chiqarib bering.
-
+  
 ---
 
 Dollarni so'mga aylantiradigan dasturni tuzing.
